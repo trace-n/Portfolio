@@ -14,6 +14,7 @@
 - The Contact page has a form to allow the user to send an email linked with Formspree so an email is received when the "Send Email" button is clicked
 - The Contact page contains an embedded Google map
 - The Portfolio page contains placeholders for upcoming projects from SheCodes
+- To return to the home page, there is a text logo of TN in the top left header menu to navigate to the landing home page from each page.
 
 - [X] At least one profile picture
 - [X] Biography (at least 100 words)
@@ -40,11 +41,12 @@
 - There is a toggle day/night button to change between light and dark mode 
 - Javascript has been incorporated to handle the mobile menu open and close, mobile menu icon change on click and toggle day/night button
 - A javascript variable is held between pages to initialise the day/night theme toggle on different page navigation
+- Images, icons and links that navigate to another page or external website have hover states 
 
 - [X] Different styles for active, hover and focus states.
 - [X] Include JavaScript to add some dynamic elements to your site.
 
-### Desktop Screenshots> Please include the following:
+### Desktop Screenshots> Includes light and dark mode:
 
 #### Homepage 
 
@@ -77,7 +79,7 @@
 ![ Contact-desk 3 form submit success message ]( ./screenshots/desktop-contact-3.png )
 ![ Contact-desk 4 email received ]( ./screenshots/desktop-contact-4.png )
 
-### Mobile Screenshots
+### Mobile Screenshots > Inlcude side by side of light/dark mode
 
 #### Homepage 
 

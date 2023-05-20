@@ -1,6 +1,6 @@
 # Tracey Nguyen - Portfolio Task
 
-[My portfolio site]( {{ link_to_your_site }} )
+[My portfolio site]( https://trace-n.github.io/Portfolio )
 
 ## Project Requirements
 

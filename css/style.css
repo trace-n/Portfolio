@@ -468,8 +468,6 @@ input:checked + .slider:before {
 .hero-info, .hero-main {
     text-align: center;
     width: 100%;
-    border-style: solid;
-    /* white-space: nowrap; */
 }
 
 .hero-info {
@@ -519,7 +517,7 @@ input:checked + .slider:before {
 @keyframes fall-animation {
     from { transform: translateY(-100%);
     }
-    to { transform: translateY(500%);
+    to { transform: translateY(600%);
     }
 }
 

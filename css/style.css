@@ -368,6 +368,10 @@ input:checked + .slider:before {
     top: 16px;
     justify-content: center;
     width: 100%;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space: nowrap;
+
 }
 
 .fall-1 {
